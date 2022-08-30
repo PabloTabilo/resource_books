@@ -13,7 +13,7 @@
 ## Algorithms and data structures
 * Introduction to Algorithms 3rd edition; Cormen, Leiserson, Rivest, Stein
     * Entrega una basta información vínculada con los roots de algorithms y estructura de datos.
-    * Lo colocan como sylabus en principales universidades como el MIT
+    * Lo colocan como syllabus en principales universidades elite como el MIT
 
 # TO DO
 * Agregar todos los demás libros distribuidos por sección.
