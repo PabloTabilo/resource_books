@@ -9,11 +9,19 @@
 * Clean Programming
 * Maths - Deep Concepts
 
+# ¿Por qué ese libro?
+## Algorithms and data structures
+* Introduction to Algorithms 3rd edition; Cormen, Leiserson, Rivest, Stein
+    * Entrega una basta información vínculada con los roots de algorithms y estructura de datos.
+    * Lo colocan como sylabus en principales universidades como el MIT
 
-## source
+# TO DO
+* Agregar todos los demás libros distribuidos por sección.
+
+# Source
 * Algorithms and Data Structures
-    * https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
-    * http://itlectures.ro/wp-content/uploads/2016/04/AdamDrozdek__DataStructures_and_Algorithms_in_C_4Ed.pdf
+    * [Introduction to Algorithms 3rd Edition](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
+    * [Data Structures and Algorithms in C](http://itlectures.ro/wp-content/uploads/2016/04/AdamDrozdek__DataStructures_and_Algorithms_in_C_4Ed.pdf)
 * Competitive Programming
     * https://cses.fi/book/book.pdf
 * Data Science (machine and statistical learning)
